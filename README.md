@@ -12,3 +12,5 @@
 10. llamado a servicios (fetch)
 11. async/await
 12. ternarios
+
+ejecutar `npm install` para ejecutar una página react básica con isntrucciones o ir a carpeta src
